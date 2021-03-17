@@ -1,5 +1,4 @@
-local time = os.date("%I:%M %p", os.time())
-local moderators = game:HttpGet("https://raw.githubusercontent.com/Kidscry/-Ignore/main/Psyco100ModeratorList")
+
 local VLib = {
     RainbowColorValue = 0,
     HueSelectionPosition = 0
